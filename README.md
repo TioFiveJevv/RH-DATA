@@ -143,6 +143,8 @@ El proyecto se desarrollará en un período académico de **11 semanas**, por lo
 3. **Disponibilidad:** Funcionamiento local sin internet.
 4. **Usabilidad:** Orientado a usuarios con conocimientos informáticos básicos.
 
+   Nota: REAMED PARA CAMBIOS FUTUROS :)
+
 
 
 
